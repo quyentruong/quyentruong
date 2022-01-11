@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Quyen Truong
 #### I am a Software Developer
 I love to play video games. I like to do Python scripting in free time. 
