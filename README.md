@@ -22,7 +22,7 @@ Skills: VUE JS / NUXT JS / JS / HTML / CSS / C# / Python
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=quyentruong)  
 
-![Metrics](https://metrics.lecoq.io/quyentruong?template=classic&languages=1&achievements=1&lines=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=quyentruong)  
 
