@@ -7,10 +7,9 @@ Skills: VUE JS / NUXT JS / JS / HTML / CSS / C# / Python
 - 🔭 I’m currently working on Manga Mark and Manga scripting 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about anything about how to use my repository / project 
-- 📫 How to reach me: quyen.truong0202@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/quyentruong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/quyen-truong//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/quyentruong)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=quyentruong)](https://github.com/ryo-ma/github-profile-trophy)
 
